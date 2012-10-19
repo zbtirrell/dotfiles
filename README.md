@@ -18,4 +18,7 @@ These are things that I need to build cool stuff/
 brew install memcached mysql
 ````
 
+Command line coda is FTW! (https://github.com/egonSchiele/Command-Line-Coda)
+````
 sudo gem install coda
+````
