@@ -6,8 +6,8 @@ dotfiles
 ````
 
 ### Stuff to Brew Install
-These are the tools that I use all the time.  Brew install ALL THE THINGS!
+These are the tools that I use all the time.
 
 ````
-brew install ack fmdiff
+brew install ack fmdiff wget
 ````
