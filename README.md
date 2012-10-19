@@ -17,3 +17,5 @@ These are things that I need to build cool stuff/
 ````
 brew install memcached mysql
 ````
+
+sudo gem install coda
