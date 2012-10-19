@@ -9,5 +9,11 @@ dotfiles
 These are the tools that I use all the time.
 
 ````
-brew install ack fmdiff wget
+brew install ack fmdiff git subversion wget
+````
+
+These are things that I need to build cool stuff/
+
+````
+brew install memcached mysql
 ````
