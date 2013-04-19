@@ -17,11 +17,13 @@ function _git_prompt() {
 			branch="(`git describe --all --contains --abbrev=4 HEAD 2> /dev/null ||
 					echo HEAD`)"
 		fi
-		echo -n ' \[\e[0;'"$ansi"'m\]'"($branch)"'\[\e[m\]'
+		echo -n ' \[\e[0;'"$ansi"'m\]'"($branch)"'\[\e[m\]:'
+	else
+		echo '🍺 '
 	fi
 }
 
 function _prompt_command() {
-		PS1="\`if [[ \$? = "0" ]]; then echo "\\[\\033[32m\\]"; else echo "\\[\\033[31m\\]"; fi\`\[\][\!]\[\033[0m\] \h:\W`_git_prompt`\$ ";
+		PS1="\`if [[ \$? = "0" ]]; then echo "\\[\\033[32m\\]"; else echo "\\[\\033[31m\\]"; fi\`\[\033[0m\] \h:\W`_git_prompt` ";
 }
 PROMPT_COMMAND=_prompt_command

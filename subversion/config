@@ -1,3 +1,3 @@
 [helpers]
-diff-cmd=fmdiff
-diff3-cmd=fmdiff3
+#diff-cmd=fmdiff
+#diff3-cmd=fmdiff3
