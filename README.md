@@ -22,3 +22,8 @@ Command line coda is FTW! (https://github.com/egonSchiele/Command-Line-Coda)
 ````
 sudo gem install coda
 ````
+
+Command line sublime text is more FTW
+````
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+````
