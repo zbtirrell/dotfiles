@@ -8,12 +8,12 @@ dotfiles
 ### Stuff to Brew Install
 These are the tools that I use all the time.
 ````
-brew install ack fmdiff git subversion wget
+brew install ack fmdiff git subversion wget the_silver_searcher
 ````
 
 These are things that I need to build cool stuff
 ````
-brew install memcached mysql
+brew install memcached mysql nginx
 ````
 
 Command line coda is FTW! (https://github.com/egonSchiele/Command-Line-Coda)
