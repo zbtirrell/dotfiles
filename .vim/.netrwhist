@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/private/var/www/pro/testing'
+let g:netrw_dirhist_2='/Library/WebServer/Documents/zbt/wp-content/plugins/go-notifications'
+let g:netrw_dirhist_3='/Library/WebServer/Documents/zbt/wp-content/plugins/go-liveblog'
+let g:netrw_dirhist_4='/Users/zbtirrell/bin'
+let g:netrw_dirhist_5='/private/var/www/pro/application/content/mu-plugins/wp-mail-smtp'
+let g:netrw_dirhist_6='/Users/zbtirrell/git/legacy-pro-ecommerce/application/content/plugins/go-subscriptions'
+let g:netrw_dirhist_7='/private/etc/apache2/other'
+let g:netrw_dirhist_8='/private/var/www/wp/wp-content/mu-plugins'
+let g:netrw_dirhist_9='/private/var/www/wp/wp-content/themes/vip/gigaom/.git'
