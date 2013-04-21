@@ -25,3 +25,19 @@ Command line sublime text is more FTW
 ````
 ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
 ````
+
+Applications
+- Dropbox
+- 1Password
+- iTerm 2
+- Text Expander
+- Sublime Text
+- 
+- App Store
+  - Better Snap Tool
+  - Pages
+  - Numbers
+  - MPlayer X
+  - LiveReload
+  - Caffeine
+  - Twitter
