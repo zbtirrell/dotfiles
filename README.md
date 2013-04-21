@@ -32,7 +32,7 @@ Applications
 - iTerm 2
 - Text Expander
 - Sublime Text
-- 
+- Command Line Tools for XCode
 - App Store
   - Better Snap Tool
   - Pages
@@ -41,3 +41,4 @@ Applications
   - LiveReload
   - Caffeine
   - Twitter
+  - XCode
