@@ -32,6 +32,8 @@ Applications
 - iTerm 2
 - Text Expander
 - Sublime Text
+- Chrome
+- Transmission
 - Command Line Tools for XCode
 - App Store
   - Better Snap Tool
