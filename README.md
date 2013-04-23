@@ -34,6 +34,7 @@ Applications
 - Sublime Text
 - Chrome
 - Skype
+- TinyGrab
 - Transmission
 - Command Line Tools for XCode
 - App Store
