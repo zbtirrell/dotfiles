@@ -37,6 +37,7 @@ Applications
 - TinyGrab
 - Transmission
 - Command Line Tools for XCode
+- PCKeyboardHack (http://pqrs.org/macosx/keyremap4macbook/pckeyboardhack.html)
 - App Store
   - Better Snap Tool
   - Pages
