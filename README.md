@@ -33,6 +33,7 @@ Applications
 - Text Expander
 - Sublime Text
 - Chrome
+- Skype
 - Transmission
 - Command Line Tools for XCode
 - App Store
