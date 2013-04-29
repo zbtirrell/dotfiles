@@ -30,23 +30,17 @@ set pastetoggle=<F2>
 call pathogen#helptags()
 call pathogen#runtime_append_all_bundles()
 
-autocmd BufRead *.py set smartindent cinwords=if,elif,else,for,while,try,except,finally,def,class
-autocmd BufWritePre *.py normal m`:%s/\s\+$//e ``
 autocmd BufRead,BufNewFile *.html set filetype=php
-autocmd BufRead,BufNewFile *.less set filetype=less
 
 filetype indent on
 filetype plugin on
 
 set suffixes=.bak,~,.o,.h,.info,.swp,.obj,.pyc
 
-autocmd FileType python set omnifunc=pythoncomplete#Complete
 autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
 autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
 autocmd FileType css set omnifunc=csscomplete#CompleteCSS
-autocmd FileType less set omnifunc=csscomplete#CompleteCSS
 autocmd FileType scss set omnifunc=csscomplete#CompleteCSS
-autocmd FileType make set noexpandtab
 
 let php_sql_query=1
 let php_htmlInStrings=1
@@ -85,3 +79,35 @@ cnoremap w!! w !sudo dd of=%
 set ffs=unix,dos,mac
 
 set tabstop=2 softtabstop=2 shiftwidth=2
+
+" make keypad work in vim with iTerm on OS X!
+map <Esc>Oq 1
+map <Esc>Or 2
+map <Esc>Os 3
+map <Esc>Ot 4
+map <Esc>Ou 5
+map <Esc>Ov 6
+map <Esc>Ow 7
+map <Esc>Ox 8
+map <Esc>Oy 9
+map <Esc>Op 0
+map <Esc>On .
+map <Esc>OQ /
+map <Esc>OR *
+map <kPlus> +
+map <Esc>OS -
+map! <Esc>Oq 1
+map! <Esc>Or 2
+map! <Esc>Os 3
+map! <Esc>Ot 4
+map! <Esc>Ou 5
+map! <Esc>Ov 6
+map! <Esc>Ow 7
+map! <Esc>Ox 8
+map! <Esc>Oy 9
+map! <Esc>Op 0
+map! <Esc>On .
+map! <Esc>OQ /
+map! <Esc>OR *
+map! <kPlus> +
+map! <Esc>OS -

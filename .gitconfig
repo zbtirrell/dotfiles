@@ -19,9 +19,8 @@
 	helper = osxkeychain
 [gist]
 	private = true
-[github]
-	user = zbtirrell
-	password = !security find-internet-password -a zbtirrell -s github.com -w | tr -d '\n'
 [core]
 	autocrlf = false
-	excludesfile = /Users/zbtirrell/dotfiles/gitignore_global
+	excludesfile = /Users/zbtirrell/dotfiles/global_gitignore
+[push]
+	default = simple
