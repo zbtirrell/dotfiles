@@ -5,14 +5,10 @@
 	noprefix = true
 	tool = fmdiff
 [color]                                                                                                                                                                                                                                  
-	  ui = true 
 	ui = true
 [alias]
-	d = difftool
 	lg = log --graph --all --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
-	co = checkout
 	st = status
-	ci = commit
 [difftool]
 	prompt = false
 [credential]
