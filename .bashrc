@@ -1,7 +1,7 @@
+export TERM=xterm-color
 export EDITOR=vi
 export SVN_EDITOR="vi --noplugin"
-export PATH=$HOME/local/bin:$HOME/bin/:$HOME/:/usr/local/bin:/usr/local/share/npm/bin:/Users/zbtirrell/adt-bundle-mac/sdk/platform-tools:/Users/zbtirrell/pear/bin:$PATH
-export CODAPATH="/Applications/Coda 2.app"
+export PATH=$HOME/local/bin:$HOME/bin/:$HOME/:/usr/local/bin:/usr/local/share/npm/bin:/Users/zbtirrell/adt-bundle-mac/sdk/platform-tools:$HOME/pear/bin:$PATH
 
 export HISTCONTROL=ignoreboth
 export HISTSIZE=10000

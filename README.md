@@ -32,7 +32,12 @@ Applications
 - iTerm 2
 - Text Expander
 - Sublime Text
+- Chrome
+- Skype
+- TinyGrab
+- Transmission
 - Command Line Tools for XCode
+- PCKeyboardHack (http://pqrs.org/macosx/keyremap4macbook/pckeyboardhack.html)
 - App Store
   - Better Snap Tool
   - Pages
