@@ -16,10 +16,16 @@ These are things that I need to build cool stuff
 brew install memcached mysql nginx
 ````
 
-Command line coda is FTW! (https://github.com/egonSchiele/Command-Line-Coda)
+Accept the xCode license:
+````
+xcodebuild -license
+````
+
+Command line gists
 ````
 sudo gem install coda
 ````
+
 
 Command line sublime text is more FTW
 ````
@@ -47,3 +53,10 @@ Applications
   - Caffeine
   - Twitter
   - XCode
+
+
+Deprecated tools:
+Command line coda (https://github.com/egonSchiele/Command-Line-Coda)
+````
+sudo gem install coda
+````
