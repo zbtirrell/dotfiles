@@ -44,6 +44,7 @@ Applications
 - Transmission
 - Command Line Tools for XCode
 - Sequel Pro (http://www.sequelpro.com)
+- CyberDuck
 - PCKeyboardHack (http://pqrs.org/macosx/keyremap4macbook/pckeyboardhack.html)
 - App Store
   - Better Snap Tool
