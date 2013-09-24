@@ -57,6 +57,12 @@ Applications
   - XCode
 
 
+## Install Windows Developer VM
+````
+curl -s https://raw.github.com/xdissent/ievms/master/ievms.sh | IEVMS_VERSIONS="10" bash
+````
+
+
 Deprecated tools:
 Command line coda (https://github.com/egonSchiele/Command-Line-Coda)
 ````
