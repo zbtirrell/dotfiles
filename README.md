@@ -8,7 +8,7 @@ dotfiles
 ### Stuff to Brew Install
 These are the tools that I use all the time.
 ````
-brew install fmdiff git subversion wget the_silver_searcher
+brew install fmdiff git subversion wget the_silver_searcher hub
 ````
 
 These are things that I need to build cool stuff
@@ -25,6 +25,11 @@ Command line gists
 ````
 sudo gem install coda
 ````
+
+Install the latest PHP
+```
+http://php-osx.liip.ch
+```
 
 
 Command line sublime text is more FTW
