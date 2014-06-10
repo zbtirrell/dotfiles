@@ -47,6 +47,7 @@ Applications
 - Skype
 - TinyGrab
 - Transmission
+- ImageOptim
 - Command Line Tools for XCode
 - Sequel Pro (http://www.sequelpro.com)
 - CyberDuck
