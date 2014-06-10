@@ -38,20 +38,21 @@ ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/s
 ````
 
 Applications
-- Dropbox
 - 1Password
-- iTerm 2
-- Text Expander
-- Sublime Text
 - Chrome
+- Command Line Tools for XCode
+- CyberDuck
+- Dropbox
+- Firefox
+- ImageOptim
+- iTerm 2
+- PCKeyboardHack (http://pqrs.org/macosx/keyremap4macbook/pckeyboardhack.html)
+- Sequel Pro (http://www.sequelpro.com)
 - Skype
+- Sublime Text
+- Text Expander
 - TinyGrab
 - Transmission
-- ImageOptim
-- Command Line Tools for XCode
-- Sequel Pro (http://www.sequelpro.com)
-- CyberDuck
-- PCKeyboardHack (http://pqrs.org/macosx/keyremap4macbook/pckeyboardhack.html)
 - App Store
   - Better Snap Tool
   - Pages
