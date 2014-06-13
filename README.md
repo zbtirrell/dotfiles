@@ -6,25 +6,31 @@ dotfiles
 ````
 
 ### Stuff to Brew Install
+Get brew cast:
+```
+brew tap caskroom/cask
+brew install brew-cask
+brew cask install qlstephen qlmarkdown quicklook-csv qlprettypatch betterzipql
+```
 These are the tools that I use all the time.
-````
+```
 brew install fmdiff git subversion wget the_silver_searcher hub
-````
+```
 
 These are things that I need to build cool stuff
-````
+```
 brew install memcached mysql nginx
-````
+```
 
 Accept the xCode license:
-````
+```
 xcodebuild -license
-````
+```
 
 Command line gists
-````
+```
 sudo gem install coda
-````
+```
 
 Install the latest PHP
 ```
@@ -33,9 +39,9 @@ http://php-osx.liip.ch
 
 
 Command line sublime text is more FTW
-````
+```
 ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
-````
+```
 
 Applications
 - 1Password
