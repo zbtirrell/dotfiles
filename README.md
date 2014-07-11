@@ -52,7 +52,7 @@ Applications
 - Firefox
 - ImageOptim
 - iTerm 2
-- PCKeyboardHack (http://pqrs.org/macosx/keyremap4macbook/pckeyboardhack.html)
+- Seil (formerly PCKeyboardHack) (https://pqrs.org/osx/karabiner/seil.html)
 - Sequel Pro (http://www.sequelpro.com)
 - Skype
 - Sublime Text
