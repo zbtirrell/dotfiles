@@ -27,11 +27,6 @@ Accept the xCode license:
 xcodebuild -license
 ```
 
-Command line gists
-```
-sudo gem install coda
-```
-
 Install the latest PHP
 ```
 http://php-osx.liip.ch
