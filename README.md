@@ -67,7 +67,7 @@ Applications
 
 ## Install Windows Developer VM
 ````
-curl -s https://raw.github.com/xdissent/ievms/master/ievms.sh | IEVMS_VERSIONS="10" bash
+curl -s https://raw.githubusercontent.com/xdissent/ievms/master/ievms.sh | env IEVMS_VERSIONS="10" bash
 ````
 
 
