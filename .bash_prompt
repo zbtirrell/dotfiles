@@ -19,7 +19,8 @@ function _git_prompt() {
 		fi
 		echo -n ' \[\e[0;'"$ansi"'m\]'"($branch)"'\[\e[m\]:'
 	else
-		echo '🍺 '
+		#echo '🍺 '
+		echo '$';
 	fi
 }
 

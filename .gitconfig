@@ -3,9 +3,9 @@
 	email = zbtirrell@gmail.com
 [diff]
 	noprefix = true
-	tool = fmdiff
-[color]                                                                                                                                                                                                                                  
-	ui = true
+	tool = diffmerge
+#[color]                                                                                                                                                                                                                                  
+#	ui = true
 [alias]
 	lg = log --graph --all --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
 	st = status
@@ -17,6 +17,15 @@
 	private = true
 [core]
 	autocrlf = false
-	excludesfile = /Users/zbtirrell/dotfiles/global_gitignore
 [push]
 	default = simple
+[difftool "diffmerge"]
+	cmd = diffmerge \"$LOCAL\" \"$REMOTE\"
+
+[instaweb]
+  httpd = webrick
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	required = true
+	process = git-lfs filter-process

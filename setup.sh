@@ -31,3 +31,15 @@ link_shizzle  ~/dotfiles/.gitconfig         ~/.gitconfig
 link_shizzle  ~/dotfiles/subversion/config  ~/.subversion/config
 
 source ~/.bashrc
+
+# setup mysql to autostart
+cp com.mysql.mysql.plist /Library/LaunchDaemons/com.mysql.mysql.plist
+sudo chown root:wheel /Library/LaunchDaemons/com.mysql.mysql.plist
+sudo chmod 644 /Library/LaunchDaemons/com.mysql.mysql.plist
+sudo launchctl load -w /Library/LaunchDaemons/com.mysql.mysql.plist
+
+# stop some annoying Safari behavior
+defaults write com.apple.Safari WebKitOmitPDFSupport -bool YES
+defaults write com.apple.Safari AutoOpenSafeDownloads -bool NO
+
+defaults write com.apple.Safari NSAppSleepDisabled -bool YES
