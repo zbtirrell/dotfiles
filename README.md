@@ -39,29 +39,24 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/sub
 ```
 
 Applications
-- 1Password
 - Chrome
 - Command Line Tools for XCode
-- CyberDuck
 - Dropbox
-- Firefox
 - ImageOptim
 - iTerm 2
-- Seil (formerly PCKeyboardHack) (https://pqrs.org/osx/karabiner/seil.html)
 - Sequel Pro (http://www.sequelpro.com)
-- Skype
-- Sublime Text
-- Text Expander
+- VS Code
 - TinyGrab
 - Transmission
+- MS Office
+- Soulver
+- UTM
+- Zoom
 - App Store
-  - Better Snap Tool
   - Pages
   - Numbers
-  - MPlayer X
-  - LiveReload
-  - Caffeine
-  - Twitter
+  - Slack
+  - 1Password
   - XCode
 
 
