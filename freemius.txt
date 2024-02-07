@@ -1,0 +1,3 @@
+$public_key = 'pk_7b8bfbb35bd06180f314d1eca88d7';
+$secret_key = 'sk_{);eBso%ie;=]Z}dHA$Xg6$&*>@id';
+

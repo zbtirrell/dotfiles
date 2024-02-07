@@ -1,6 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/zbtirrell/.ssh'
-let g:netrw_dirhist_2='/Users/zbtirrell/.rocketeer'
-let g:netrw_dirhist_3='/Users/zbtirrell/.ssh'
-let g:netrw_dirhist_4='/Users/zbtirrell'
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/zacharytirrell/tmp'
+let g:netrw_dirhist_2='/Users/zacharytirrell/.ssh'
+let g:netrw_dirhist_1='/Users/zacharytirrell/code'
