@@ -32,31 +32,29 @@ Install the latest PHP
 http://php-osx.liip.ch
 ```
 
-
-Command line sublime text is more FTW
-```
-ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
-```
-
 Applications
+- 1Password
+- Atlas
 - Chrome
 - Command Line Tools for XCode
 - Dropbox
 - ImageOptim
 - iTerm 2
-- Sequel Pro (http://www.sequelpro.com)
-- VS Code
-- TinyGrab
+- TablePlus
+- Cursor
+- CleanShotX
+- Mail+ for Gmail
+- gCal for Google Calendar
 - Transmission
-- MS Office
-- Soulver
+- Soulver 3
 - UTM
-- Zoom
+
 - App Store
   - Pages
   - Numbers
   - Slack
-  - 1Password
+  - Simple SVG to PNG
+  - Simple Camera Viewer
   - XCode
 
 
