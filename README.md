@@ -36,20 +36,22 @@ Applications
 - 1Password
 - Atlas
 - Chrome
+- CleanShotX
 - Command Line Tools for XCode
+- Cursor
 - Dropbox
+- gCal for Google Calendar
 - ImageOptim
 - iTerm 2
-- TablePlus
-- Cursor
-- CleanShotX
 - Mail+ for Gmail
-- gCal for Google Calendar
-- Transmission
+- Spotify
 - Soulver 3
+- TablePlus
+- Transmission
 - UTM
 
 - App Store
+  - Amphetamine
   - Pages
   - Numbers
   - Slack
